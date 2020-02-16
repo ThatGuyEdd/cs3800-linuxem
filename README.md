@@ -1,2 +1,2 @@
-# cs3800-linuxem
-Linux emulation assignment
+# CS3800 -- Linux Shell Emulator
+Linux shell emulation assignment for SP2019
